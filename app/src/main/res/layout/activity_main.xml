@@ -25,7 +25,7 @@
         />
 
     <Button
-        android:id="@+id/count_up"
+        android:id="@+id/countup_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/count_up"
